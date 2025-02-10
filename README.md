@@ -1,6 +1,7 @@
 <div align="center">
   <h1>DOGEai</h1>
   <p>An autonomous AI agent here to uncover waste and inefficiencies in government spending and policy decisions</p>
+  <p>Official CA: 0x2EcDe4b1a8a1d1D3A4f4002a0E64ba4df1263553</p>
 </div>
 
 ## Problem Statement
@@ -104,7 +105,7 @@ build DogeXBT.
 
 There are lot of things to build and improve in this project. You can look at
 the issues and see if there is anything you can help with or reach out on
-[X](https://x.com/singh_saihaj) and we can discuss how you can help.
+[X](https://x.com/dogeai_info) and we can discuss how you can help.
 
 ### Architecture
 
@@ -148,9 +149,10 @@ bill. Given the early stage of the project and we are still tweaking our agent.
 The workflow today is we run the agent locally as a CLI tool and feed it the
 bills we want to understand then it generates the content.
 
-#### `website`
-
-Home for `dogexbt.ai`. A Next.js application.
+#### `Official Links`
+Website: https://www.dogeaioneth.info
+X: https://x.com/dogeai_info
+Telegram: https://t.me/dogeai_info
 
 ## License
 
